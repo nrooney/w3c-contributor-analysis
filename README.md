@@ -1,10 +1,12 @@
 # W3C Contributor Analysis
 This repo is a collaborative analysis on the people contributing to the W3C. It aims to discover whether the W3C model is conducive to developing standards for the web. 
 
-**Note: if you are a person who wants to / is particpating in W3C but the W3C Membership Model is impacting your participation, please add your name to the ["I am Experiecing Barriers in Participating at W3C"](/nrooney/w3c-contributor-analysis/blob/master/README.md#i-am-experiecing-barriers-in-participating-at-w3c) section**
+**Note1: if you are a person who wants to / is particpating in W3C but the participation model is impacting you, please add your name to the ["I am Experiecing Barriers in Participating at W3C"](/nrooney/w3c-contributor-analysis/blob/master/README.md#i-am-experiecing-barriers-in-participating-at-w3c) section**
+
+**Note2: this repo is not making any assumption on the W3C model. It aims to discover whether their is and the extent of a problem by undertaking a study of the current situation.**
 
 ## Problem Description
-The W3C "is an international community where Member organizations, full-time staff, and the public work together to develop Web standards" [[ref](https://www.w3.org/)]. However, to partake in standards creation an individual is required to be part of a member organisation; in most cases this comes with a membership fee. Not only this but participating in W3C Working or Interest Groups usually comes at a required level of travel; meaning individuals who wish to participate in W3C either have to secure funding for their travel requirements or self-fund.
+The W3C "is an international community where Member organizations, full-time staff, and the public work together to develop Web standards" [[ref](https://www.w3.org/)]. To partake in standards creation an individual is required to be part of a member organisation; in most cases this comes with a membership fee. Not only this but participating in W3C Working or Interest Groups usually comes at a required level of travel; meaning individuals who wish to participate in W3C either have to secure funding for their travel requirements or self-fund.
 
 The W3C has proposed and put into place a number of methods to help solve these issues, including creating the [Invited Experts](#) role, creation of [Community Groups](#) and the [WCIG](#). Despite this, many people still find barriers to working on standards within the W3C.
 
@@ -21,8 +23,12 @@ Please feel free to add your name or github handle below if any of these followi
 * I am self-funding my participation in W3C, but I fear I will need to stop soon due to the expense
 * I was previously participating in W3C, but I moved to a non-member organisation and therefore had to leave W3C
 
----
-
 [Your Name](github/url), [Your Name](github/url), etc.
 
----
+## "I Participating in W3C, but I'm uneasy about the Current Participation Model"
+Please feel free to add your name or github handle below if any of these following statements apply to you (if you do not want to add your name, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
+
+* I'm participating in W3C (as a member, invited expert, or otherwise) but I am concerned that the current model is not the right fit for web standards development.
+
+[Natasha Rooney](https://github.com/nrooney), [Your Name](github/url), etc.
+
