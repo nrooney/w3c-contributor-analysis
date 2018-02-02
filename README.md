@@ -1,7 +1,7 @@
 # W3C Contributor Analysis
 This repo is a collaborative analysis on the people contributing to the W3C. It aims to discover whether the W3C model is conducive to developing standards for the web. 
 
-**Note: if you are a person who wants to / is particpating in W3C but the W3C Membership Model is impacting your participation, please add your name to the ["I am Experiecing Barriers in Participating at W3C"](#) section**
+**Note: if you are a person who wants to / is particpating in W3C but the W3C Membership Model is impacting your participation, please add your name to the ["I am Experiecing Barriers in Participating at W3C"](/nrooney/w3c-contributor-analysis/blob/master/README.md#i-am-experiecing-barriers-in-participating-at-w3c) section**
 
 ## Problem Description
 The W3C "is an international community where Member organizations, full-time staff, and the public work together to develop Web standards" [[ref](https://www.w3.org/)]. However, to partake in standards creation an individual is required to be part of a member organisation; in most cases this comes with a membership fee. Not only this but participating in W3C Working or Interest Groups usually comes at a required level of travel; meaning individuals who wish to participate in W3C either have to secure funding for their travel requirements or self-fund.
@@ -19,4 +19,8 @@ Please feel free to add your name or github handle below if any of these followi
 * I am self-funding my participation in W3C, but I fear I will need to stop soon due to the expense
 * I was previously participating in W3C, but I moved to a non-member organisation and therefore had to leave W3C
 
-[name](github/url)
+---
+
+[Your Name](github/url), [Your Name](github/url), etc.
+
+---
