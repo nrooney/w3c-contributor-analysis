@@ -18,6 +18,7 @@ This repo will be collecting the following data. After an adaquate round of data
   * Members editors who are Browser Vendor Employees
   * Invited Expert / Non Member Editors
 * W3C Working Group / TAG Github Contributions (same breakdown as above)
+* W3C Working Group / TAG Github Issue Discussions (same breakdown as above)
 * Numbers of people interested in working in W3C but unable to for some reason
 * Active Community Groups which are halting Working Group status (most likely due to needing to lose members)
 
