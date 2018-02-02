@@ -25,7 +25,7 @@ This repo will be collecting the following data. After an adaquate round of data
 @todo add others
 
 ## "I am Experiecing Barriers in Participating at W3C"
-Please feel free to add your name or github handle below if any of these following statements apply to you. You can add your name by `pull request` or by [raising an issue](/nrooney/w3c-contributor-analysis/issues); if you want to be added anonymously, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
+**Please feel free to add your name or github handle below if any of these following statements apply to you.** You can add your name by `pull request` or by [raising an issue](/nrooney/w3c-contributor-analysis/issues); if you want to be added anonymously, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
 
 * I want to participate in W3C, but my employer is not a W3C member and / or refuses to become a W3C member
 * I want to participate in W3C, but I cannot self-fund the travel
@@ -35,7 +35,7 @@ Please feel free to add your name or github handle below if any of these followi
 [Your Name](github/url), [Your Name](github/url), etc.
 
 ## "I Participating in W3C, but I'm uneasy about the Current Participation Model"
-Please feel free to add your name or github handle below if any of these following statements apply to you. You can add your name by `pull request` or by [raising an issue](/nrooney/w3c-contributor-analysis/issues); if you want to be added anonymously, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
+**Please feel free to add your name or github handle below if any of these following statements apply to you.** You can add your name by `pull request` or by [raising an issue](/nrooney/w3c-contributor-analysis/issues); if you want to be added anonymously, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
 
 * I'm participating in W3C (as a member, invited expert, or otherwise) but I am concerned that the current model is not the right fit for web standards development.
 
