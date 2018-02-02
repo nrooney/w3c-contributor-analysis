@@ -9,7 +9,9 @@ The W3C "is an international community where Member organizations, full-time sta
 The W3C has proposed and put into place a number of methods to help solve these issues, including creating the [Invited Experts](#) role, creation of [Community Groups](#) and the [WCIG](#). Despite this, many people still find barriers to working on standards within the W3C.
 
 ## Data Collection
-This repo will be collecting the following data. After a
+This repo will be collecting the following data. After an adaquate round of data collection some analysis will be run. Suggestions for analysis running are welcome (thanks to those who suggested [GrimoireLab](https://grimoirelab.gitbooks.io/tutorial/)).
+
+* 
 
 ## "I am Experiecing Barriers in Participating at W3C"
 Please feel free to add your name or github handle below if any of these following statements apply to you (if you do not want to add your name, please email me <nrooney@gsma.com> or privately pm me on twitter [@thisNatasha](https://twitter.com/thisnatasha) and I will add you as "anon"). Please send this repo on to others so they can add their details also:
